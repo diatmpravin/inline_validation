@@ -1,6 +1,6 @@
 # InlineValidation
 
-#TODO: Write a gem description
+Trying to simplify model level validation As inline validation 
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-#TODO: Write usage instructions here
+Coming soon..........
 
 ## Contributing
 
