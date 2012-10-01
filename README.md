@@ -1,5 +1,5 @@
 # InlineValidation
-
+WARNING! This gem is under active development now. DON'T USE IT IN PRODUCTION, please
 Trying to simplify model level validation As inline validation 
 
 ## Installation
