@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = InlineValidation::VERSION
   gem.authors       = ["diatmpravin"]
   gem.email         = ["diatm.pravin.it.07.27@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Model level inline validation}
+  gem.summary       = %q{In progress}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
